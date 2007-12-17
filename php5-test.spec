@@ -82,7 +82,6 @@ Requires:	php-xsl
 #Requires:	php-xdebug
 #Requires:	php-yp
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 This is a simple test suite for testing php5
