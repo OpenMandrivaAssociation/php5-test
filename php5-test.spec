@@ -1,4 +1,4 @@
-Summary:	This is a simple test suite for testing php5
+Summary:	Simple test suite for testing php5
 Name:		php5-test
 Version:	5.1.6
 Release:	%mkrel 1
