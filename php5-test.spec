@@ -1,7 +1,7 @@
 Summary:	Simple test suite for testing php5
 Name:		php5-test
 Version:	5.1.6
-Release:	%mkrel 5
+Release:	%mkrel 6
 Group:		System/Servers
 URL:		http://www.php.net
 License:	PHP License
