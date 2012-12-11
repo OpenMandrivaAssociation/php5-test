@@ -161,3 +161,37 @@ EOF
 %doc README.MDK
 %attr(0755,root,root) %{_bindir}/php5-test
 
+
+
+%changelog
+* Fri Sep 04 2009 Thierry Vignaud <tvignaud@mandriva.com> 5.1.6-6mdv2010.0
++ Revision: 430690
+- rebuild
+
+* Fri Aug 01 2008 Thierry Vignaud <tvignaud@mandriva.com> 5.1.6-5mdv2009.0
++ Revision: 258993
+- rebuild
+
+* Thu Jul 24 2008 Thierry Vignaud <tvignaud@mandriva.com> 5.1.6-4mdv2009.0
++ Revision: 246865
+- rebuild
+
+* Mon Feb 18 2008 Thierry Vignaud <tvignaud@mandriva.com> 5.1.6-2mdv2008.1
++ Revision: 171036
+- rebuild
+- fix "foobar is blabla" summary (=> "blabla") so that it looks nice in rpmdrake
+
+* Wed Jan 02 2008 Olivier Blin <oblin@mandriva.com> 5.1.6-1mdv2008.1
++ Revision: 140723
+- restore BuildRoot
+
+  + Thierry Vignaud <tvignaud@mandriva.com>
+    - kill re-definition of %%buildroot on Pixel's request
+    - import php5-test
+
+
+* Sun Aug 27 2006 Oden Eriksson <oeriksson@mandriva.com> 5.1.6-1
+- updated for latest php-5.1.6
+
+* Fri Jun 10 2005 Oden Eriksson <oeriksson@mandriva.com> 5.0.4-1mdk
+- initial Mandriva package
