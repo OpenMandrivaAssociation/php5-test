@@ -3,7 +3,7 @@ Name:		php5-test
 Version:	5.1.6
 Release:	%mkrel 6
 Group:		System/Servers
-URL:		http://www.php.net
+URL:		https://www.php.net
 License:	PHP License
 BuildRequires:	php-devel >= 5.1.6
 Requires:	php-bz2
